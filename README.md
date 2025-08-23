@@ -60,7 +60,7 @@ src/
 1. Clone the repository
 ```bash
 git clone <repository-url>
-cd Structure
+cd structureAngular
 ```
 
 2. Install dependencies
@@ -81,13 +81,10 @@ ng serve
 - Run `ng build` to build the project
 - Run `ng test` to execute unit tests
 
-## Contributing
+## 👨‍💻 Developed By
 
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Submit a pull request
+# ✨ Mostafa Hamed ✨
 
-## License
-
-This project is licensed under the MIT License.
+🚀 Frontend Developer | Angular • React • Next.js  
+📧 Email: [mostafa@example.com](mailto:mostafa@example.com)  
+🌐 Portfolio: [your-portfolio-link](https://your-portfolio-link.com)  
