@@ -49,6 +49,7 @@ src/
 ├── assets/
 │   ├── images/
 │   └── fonts/
+|
 │
 ├── environments/
 │   ├── environment.ts
@@ -129,6 +130,9 @@ Run `ng test` to execute the unit tests via Karma.
 -   **@angular/core**: The core Angular framework.
 -   **@angular/cli**: The command-line interface for Angular.
 -   **@algolia/client-insights**: Algolia client for sending insights and analytics events.
+-   **bootstrap**: Popular CSS framework for building responsive, mobile-first sites.
+-   **font-awesome**: The web's most popular icon set and toolkit.
+-   **jwt-decode**: A small browser library that helps decode JWTs (JSON Web Tokens).
 
 ## Further help
 To get more help on the Angular CLI use `ng help` or go check out the Angular CLI Overview and Command Reference page.
