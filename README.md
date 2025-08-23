@@ -86,5 +86,6 @@ ng serve
 # ✨ Mostafa Hamed ✨
 
 🚀 Frontend Developer | Angular • React • Next.js  
-📧 Email: [mostafa@example.com](mailto:mostafa@example.com)  
-🌐 Portfolio: [your-portfolio-link](https://your-portfolio-link.com)  
+📧 Email: [mostafahamed3003@gmail.com](mailto:mostafahamed3003@gmail.com)  
+🌐 Portfolio: [portfoliomostafa-hamed.vercel.app](https://portfoliomostafa-hamed.vercel.app/)  
+
