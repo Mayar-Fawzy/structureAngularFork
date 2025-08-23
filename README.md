@@ -1,4 +1,4 @@
-# 🧠 Angular Project with Bootstrap and JWT Authentication
+# 🧠 Angular Project Structure
 
 This project is a modern Angular application that demonstrates a scalable and maintainable architecture. It leverages Bootstrap for responsive UI design, FontAwesome for a rich icon set, and JWT Decode for handling user authentication and session management.
 
@@ -6,7 +6,7 @@ This project is a modern Angular application that demonstrates a scalable and ma
 
 ## 🚀 Key Technologies
 
--   **Angular**: The core framework for building the single-page application.
+-   **Angular 20 **: The core framework for building the single-page application.
 -   **Bootstrap**: Used for creating responsive layouts and UI components, ensuring a consistent look and feel across devices.
 -   **FontAwesome**: Provides a comprehensive library of icons used throughout the application to enhance user experience.
 -   **JWT Decode**: A lightweight library used to decode JSON Web Tokens (JWTs) on the client-side for managing user authentication state and permissions.
